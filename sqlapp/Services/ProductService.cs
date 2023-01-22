@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 namespace sqlapp.Services
 {
-  // This service will interact with our Product data in the SQL database
+  // This service will interact with our Product data in the SQL database - Change
   public class ProductService
   {
     private static string db_source = "dbserveraybars.database.windows.net";
