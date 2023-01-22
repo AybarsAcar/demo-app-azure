@@ -1,0 +1,13 @@
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/sqlapp
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/appsettings.Development.json
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/appsettings.json
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/sqlapp.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/sqlapp.deps.json
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/sqlapp.runtimeconfig.json
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/sqlapp.pdb
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/System.Data.SqlClient.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/runtimes/win-arm64/native/sni.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/runtimes/win-x64/native/sni.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/runtimes/win-x86/native/sni.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/var/folders/jv/jgc87c7d2bj16ybqkgjz81lh0000gn/T/rider-publish8108890471265574018/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
